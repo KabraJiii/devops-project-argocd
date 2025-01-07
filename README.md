@@ -1,1 +1,1 @@
-# devops-project-argocs
+# devops-project-argocd
